@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "494197517948",
+    "firebase_url": "https://elendin-60-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "elendin-60",
+    "storage_bucket": "elendin-60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494197517948:android:d40dfdd408bc12f5a5a3f9",
+        "android_client_info": {
+          "package_name": "com.elendin.elendin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494197517948-2sinukl8cpm8del0p4bnkgc1imc2711l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elendin.elendin",
+            "certificate_hash": "4fb5b3e88a82c3a5a1a843aab703650285d97699"
+          }
+        },
+        {
+          "client_id": "494197517948-rhh8rjk35qp5j7s65vga6oiibkoo1vk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0GJOOLoiU4JcnlRliehSWZy5tiuLByI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494197517948-rhh8rjk35qp5j7s65vga6oiibkoo1vk8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "494197517948-e39k7j2ral5m6rf51lkq9lg5dbfnhq42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elendin.elendin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494197517948:android:fa6b50c2aa85cbbda5a3f9",
+        "android_client_info": {
+          "package_name": "com.elendinco.elendintus.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494197517948-rhh8rjk35qp5j7s65vga6oiibkoo1vk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0GJOOLoiU4JcnlRliehSWZy5tiuLByI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494197517948-rhh8rjk35qp5j7s65vga6oiibkoo1vk8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "494197517948-e39k7j2ral5m6rf51lkq9lg5dbfnhq42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elendin.elendin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
